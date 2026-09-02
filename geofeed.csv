@@ -53,6 +53,8 @@ prefix,country,region,city,zip
 2605:3f84:2740::/44,US,US-IA,Camanche,52730
 2605:3f84:4100::/40,US,US-IA,Marshalltown,50158
 2605:3f84:4400::/38,US,US-IA,Burlington,52601
+2605:3f84:6000::/36,US,US-MN,Duluth,55811
+2605:3f84:6050::/44,US,US-WI,Superior,54880
 14.102.172.0/22,US,US-IA,Sioux City,51101
 96.63.176.0/20,US,US-IA,Sioux City,51101
 98.159.120.0/21,US,US-IA,Sioux City,51101
